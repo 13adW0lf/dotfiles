@@ -1,0 +1,2 @@
+#Icon on startup
+neofetch
